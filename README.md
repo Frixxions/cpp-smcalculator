@@ -8,7 +8,7 @@ I stopped learning Java and started C++. Thanks to everyone!
 
 ## HOW TO RUN
 
-### Linux (Ubuntu)
+### Linux (I coded from Ubuntu)
 
 ```bash
 sudo apt install g++ -y
