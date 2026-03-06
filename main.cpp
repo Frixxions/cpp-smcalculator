@@ -40,7 +40,7 @@ Your Choice: )" << endl;
             cout << secndTxt;
             cin >> gir2;
             
-            int carp = gir1 * gir2;
+            int carp = gir1 - gir2;
             cout << gir1 << " x " << gir2 << " Answer: " << carp << endl;
             
         }
