@@ -17,6 +17,7 @@ git clone https://github.com/Frixxions/cpp-smcalculator
 cd cpp-smcalculator
 g++ main.cpp -o smcalculator
 ./smcalculator
+
 Windows 7/10/11
 # Install MSYS2
 winget install --id=MSYS2.MSYS2 -e
@@ -28,6 +29,7 @@ git clone https://github.com/Frixxions/cpp-smcalculator
 cd cpp-smcalculator
 g++ main.cpp -o smcalculator.exe
 ./smcalculator.exe
+
 Termux (Android)
 pkg install git g++ -y
 cd ~
@@ -35,6 +37,7 @@ git clone https://github.com/Frixxions/cpp-smcalculator
 cd cpp-smcalculator
 g++ main.cpp -o smcalculator
 ./smcalculator
-Important
+
+Important!!!!!!
 If these instructions don't work, please contact me!
 İnstagram: vtec.inizz
