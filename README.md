@@ -1,38 +1,40 @@
 # cpp-smcalculator
 
-Hello. I am 13 years old and this is my first C++ Project. İt is simple calculator and working from terminal.
-I am stopped learning java and i am started C++. Thanks for everyone!
+Hello! I am 13 years old and this is my first C++ project. It is a simple calculator that works from the terminal.
 
-### HOW TO RUN
-### Linux (I coded from ubuntu)
-'sudo apt install g++ -y'
-'cd ~'
-'git clone https://github.com/Frixxions/cpp-smcalculator'
-'cd smcalculator'
-'g++ main.cpp -o smcalculator'
-'cd cpp-smcalculator'
-'./smcalculator'
+I stopped learning Java and started C++. Thanks to everyone!
 
-### Windows 7 - 10 - 11
-'winget install --id=MSYS2.MSYS2 -e'
-'pacman -S mingw-w64-x86_64-gcc'
-'cd ~'
-'git clone https://github.com/Frixxions/cpp-smcalculator'
-'cd smcalculator'
-'g++ main.cpp -o smcalculator'
-'cd cpp-smcalculator'
-'./smcalculator'
+---
 
-### Termux
-'pkg install g++ -y'
-'cd ~'
-'git clone https://github.com/Frixxions/cpp-smcalculator'
-'cd smcalculator'
-'g++ main.cpp -o smcalculator'
-'cd cpp-smcalculator'
-'./smcalculator
+## HOW TO RUN
 
+### Linux (Ubuntu)
 
-### İmportant
-İf this start tutorial is wrong, Contact Me!
-Instagram: vtec.inizz
+```bash
+sudo apt install g++ -y
+cd ~
+git clone https://github.com/Frixxions/cpp-smcalculator
+cd cpp-smcalculator
+g++ main.cpp -o smcalculator
+./smcalculator
+Windows 7/10/11
+# Install MSYS2
+winget install --id=MSYS2.MSYS2 -e
+
+# Open MSYS2 terminal, then run:
+pacman -S mingw-w64-x86_64-gcc
+cd ~
+git clone https://github.com/Frixxions/cpp-smcalculator
+cd cpp-smcalculator
+g++ main.cpp -o smcalculator.exe
+./smcalculator.exe
+Termux (Android)
+pkg install git g++ -y
+cd ~
+git clone https://github.com/Frixxions/cpp-smcalculator
+cd cpp-smcalculator
+g++ main.cpp -o smcalculator
+./smcalculator
+Important
+If these instructions don't work, please contact me!
+İnstagram: vtec.inizz
