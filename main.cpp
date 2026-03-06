@@ -51,7 +51,7 @@ Your Choice: )" << endl;
             cout << secndTxt;
             cin >> gir2;
 
-            int xAns = gir1 + gir2;
+            int xAns = gir1 * gir2;
             cout << "Answer: " << xAns << endl;
         }
         else if (opGir == 4) {
